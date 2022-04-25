@@ -23,7 +23,7 @@ $ cd /sdcard/downloads
 
 $ git clone https://github.com/tudineroweb/EsBTCv3.git
 
-$ cd EsBTCv2
+$ cd EsBTCv3
 
 (editar cfg.py = cookie, uid, user_agent, hash_ini)
 
